@@ -10,7 +10,7 @@ navbar:
       icon: fa-globe-americas
       href: geog176A.html
     - text: "My CV"
-      icon: fa-smile-o
+      icon: fa-file-text
       href: meaganbrown.html
 output:
   html_document:

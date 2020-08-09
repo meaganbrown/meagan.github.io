@@ -1,10 +1,10 @@
 ---
 title: "Meagan Brown"
 ---
+[meagan_brown@ucsb.edu](meagan_brown@ucsb.edu) | [linkedIn](https://www.linkedin.com/in/meaganbrown/)
 
-<center>
 **Education**
-</center>
+
 
 **University of California, Santa Barbara (UCSB)** (Expected Graduation: June 2021)
 Bachelor of Science in Environmental Studies with an emphasis in Geography
@@ -13,9 +13,9 @@ Bachelor of Science in Environmental Studies with an emphasis in Geography
 
 **Selected Coursework**: Water Supply and Demand, Water Quality, GIS for Environmental Applications, Maps and Special Reasoning, Environmental Economics, Engineering and Environmental Geology,Writing for Environmental Professions
 
-<center>
+
 **Work Experience**
-</center>
+
 
 **Lead Water Quality Intern**, Coal Oil Point Reserve, UC Nature Reserve System, Goleta, CA **(1/19 to 9/19)** 
 

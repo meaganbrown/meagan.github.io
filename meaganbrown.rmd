@@ -1,10 +1,19 @@
+
 ---
 title: "Meagan Brown"
 ---
+
 [meagan_brown@ucsb.edu](meagan_brown@ucsb.edu) | [linkedIn](https://www.linkedin.com/in/meaganbrown/)
 
-**Education**
 
+Environmental studies student focused on sustainable
+water resources management, water policy, and water markets
+
+<font size="5">
+**Education**
+</font size="5">
+
+***
 
 **University of California, Santa Barbara (UCSB)** (Expected Graduation: June 2021)
 Bachelor of Science in Environmental Studies with an emphasis in Geography
@@ -13,22 +22,32 @@ Bachelor of Science in Environmental Studies with an emphasis in Geography
 
 **Selected Coursework**: Water Supply and Demand, Water Quality, GIS for Environmental Applications, Maps and Special Reasoning, Environmental Economics, Engineering and Environmental Geology,Writing for Environmental Professions
 
-
+<font size="5">
 **Work Experience**
+</font size="5">
 
+***
+
+**Community Engagement Coordinator** - Santa Barbara Chapter, Gravity Water, Santa Barbara, CA **(7/20 - Present)**
+
+- Strategic Planning & Partnerships
+
+- Project Coordination
+
+- Professional Communication
 
 **Lead Water Quality Intern**, Coal Oil Point Reserve, UC Nature Reserve System, Goleta, CA **(1/19 to 9/19)** 
 
-• Used YSI meter to record dissolved oxygen levels in 4 different locations around Devereuax Slough
+- Used YSI meter to record dissolved oxygen levels in 4 different locations around Devereuax Slough
 
-• Supervised 3 volunteers and oversaw training and weekly scheduling
+- Supervised 3 volunteers and oversaw training and weekly scheduling
 
-• Ensured that Devereux Slough was sampled consistently and accurately 4 times a week
+- Ensured that Devereux Slough was sampled consistently and accurately 4 times a week
 
 **Supply Chain Research Assistant**, UCSB – Dr. Robert Heilmayr, Santa Barbara, CA **(3/19 to 6/19)**
 
-• Assisted an environmental professor on a palm oil supply chain project
+- Assisted an environmental professor on a palm oil supply chain project
 
-• Transferred data (companies, palm oil refineries, and mills) from PDFs into Excel documents
+- Transferred data (companies, palm oil refineries, and mills) from PDFs into Excel documents
 
-• Helped organize data to create a GIS map that linked companies and refineries to the mills
+- Helped organize data to create a GIS map that linked companies and refineries to the mills

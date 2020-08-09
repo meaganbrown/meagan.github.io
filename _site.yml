@@ -1,0 +1,17 @@
+name: "meaganbrown.github.io"
+output_dir: "."
+navbar:
+  title: "Geog 176A"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe-americas
+      href: geog176A.html
+    - text: "My CV"
+      icon: fa-smile-o
+      href: cv176.html_document
+output:
+  html_document:
+    theme: darkly

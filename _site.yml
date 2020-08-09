@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "My CV"
       icon: fa-smile-o
-      href: cv176.html_document
+      href: meaganbrown.html
 output:
   html_document:
     theme: darkly

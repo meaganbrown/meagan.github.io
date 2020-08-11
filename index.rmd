@@ -13,3 +13,4 @@ My name is [Meagan Brown](file:///Users/meaganbrown/Documents/github/meaganbrown
 
 </center>
 
+![This is my Doberman/Australian Shepard puppy Zuko!](./img/Zuko.jpeg)

@@ -4,7 +4,7 @@ title: "Projects"
 
 The following is a collection of links to various projects I performed in the summer of 2020. These projects are based in R that I created by writing some code. Data Science is cool!
 
-## [Building a project website](file:///Users/meaganbrown/Documents/github/meaganbrown.github.io/index.html)
+## [Lab 01 Building a project website](file:///Users/meaganbrown/Documents/github/meaganbrown.github.io/index.html)
 
 In this assignment I learned:
 

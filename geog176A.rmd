@@ -13,3 +13,11 @@ In this assignment I learned:
 - How to customize my website by writing code
 
 - How to use the knit function in order to preview my website progress!
+
+## [Lab 02 Analyzing Coronavirus Data ](file:///Users/meaganbrown/Documents/github/lab-02.html)
+In this assignment I learned:
+
+- Data wrangling and visualization skills
+
+- How to hide my code and only display a chart or output on my html 
+

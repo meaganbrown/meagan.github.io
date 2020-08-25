@@ -21,3 +21,12 @@ In this assignment I learned:
 
 - How to hide my code and only display a chart or output on my html 
 
+## [Lab 03 Distances and Projections ](https://meaganbrown.github.io/geog-176A-labs/lab-03.html)
+In this assignment I learned:
+
+- How to add labels to geometry points by using ggrepel
+
+- How to drop units from a table
+
+- How to manipulate geometries and coordinate systems
+

@@ -12,6 +12,11 @@ navbar:
     - text: "My CV"
       icon: fa-file-text
       href: meaganbrown.html
+  right:
+    - icon: fa-github
+      href: https://github.com/meaganbrown
+    - icon: fa-envelope-square
+      href: meagan_brown@ucsb.edu
 output:
   html_document:
     theme: darkly

@@ -14,7 +14,7 @@ In this assignment I learned:
 
 - How to use the knit function in order to preview my website progress!
 
-## [Lab 02 Analyzing Coronavirus Data ](file:///Users/meaganbrown/Documents/github/lab-02.html)
+## [Lab 02 Analyzing Coronavirus Data ](file:///Users/meaganbrown/Documents/github/geog-176A-labs/docs/lab-02.html)
 In this assignment I learned:
 
 - Data wrangling and visualization skills
@@ -30,3 +30,33 @@ In this assignment I learned:
 
 - How to manipulate geometries and coordinate systems
 
+
+## [Lab 04 Tesselations, Point-in-Polygon  ](https://meaganbrown.github.io/geog-176A-labs/lab-04.html)
+
+In this assignment I learned:
+
+- The differences between different tesselating surfaces such as triangulation and hexagon
+
+- How to use point-in-polygon counts to aggregate point data
+
+- How to simplify data so that we aren't working with as many geometries and can run code faster
+
+## [Lab 05 Rasters and Remote Sensing  ](https://meaganbrown.github.io/geog-176A-labs/lab-05.html)
+
+In this assignment I learned:
+
+- How to work with multiband raster files to detect and analyze a flood event
+
+- How different stretches such as "hist" and "lin" effect how we analyze different data on maps
+
+- How to create a raster stack
+
+## [Lab 06 Terrain Analysis ](https://meaganbrown.github.io/geog-176A-labs/lab-05.html)
+
+In this assignment I learned:
+
+- How to prepare terrain for analysis 
+
+- How to perform multi-data structure(raster/vector) analysis
+
+- How to retrieve field data 

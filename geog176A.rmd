@@ -14,14 +14,24 @@ In this assignment I learned:
 
 - How to use the knit function in order to preview my website progress!
 
-## [Lab 02 Analyzing Coronavirus Data ](file:///Users/meaganbrown/Documents/github/geog-176A-labs/docs/lab-02.html)
+## [Lab 02 Analyzing Coronavirus Data ](https://meaganbrown.github.io/geog-176A-labs/lab-02.html)
+
+![](./img/Lab_2.png){width="50%"}
+
 In this assignment I learned:
 
 - Data wrangling and visualization skills
 
 - How to hide my code and only display a chart or output on my html 
 
+- How to use knitr::kable for the first time in order to create aesthetically appealing tables
+
+-How to make a faceted bar plot
+
 ## [Lab 03 Distances and Projections ](https://meaganbrown.github.io/geog-176A-labs/lab-03.html)
+
+![](./img/Lab_3.png){width="50%"}
+
 In this assignment I learned:
 
 - How to add labels to geometry points by using ggrepel
@@ -33,6 +43,8 @@ In this assignment I learned:
 
 ## [Lab 04 Tesselations, Point-in-Polygon  ](https://meaganbrown.github.io/geog-176A-labs/lab-04.html)
 
+![](./img/Lab_4.png){width="50%"}
+
 In this assignment I learned:
 
 - The differences between different tesselating surfaces such as triangulation and hexagon
@@ -43,6 +55,8 @@ In this assignment I learned:
 
 ## [Lab 05 Rasters and Remote Sensing  ](https://meaganbrown.github.io/geog-176A-labs/lab-05.html)
 
+![](./img/Lab_5.png){width="50%"}
+
 In this assignment I learned:
 
 - How to work with multiband raster files to detect and analyze a flood event
@@ -51,7 +65,9 @@ In this assignment I learned:
 
 - How to create a raster stack
 
-## [Lab 06 Terrain Analysis ](https://meaganbrown.github.io/geog-176A-labs/lab-05.html)
+## [Lab 06 Terrain Analysis ](https://meaganbrown.github.io/geog-176A-labs/lab-06.html)
+
+![](./img/Lab_6.png){width="50%"}
 
 In this assignment I learned:
 
